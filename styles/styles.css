@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(203, 255, 213);
+    font-family:Josefin Sans;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 4rem;
+    font-weight:bold;
+
+}
+.title{
+    border-bottom:5px solid rgb(224, 124, 124)
+}
+
+body, html{
+    height:100%;
+    width:100%;
+
+}
